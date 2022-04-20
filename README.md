@@ -3,7 +3,7 @@ Un script en python para descargar fotos de perfil de alumnos de Santo Tomás
 
 # Uso
 
-Ejecuta el script pasando el rut del alumno o un txt con ruts separados por linea, las fotos de perfil se descargarán en el mismo directorio en que se ejecute el script
+Ejecuta el script pasando el rut del alumno o un txt con ruts separados por linea, las fotos de perfil se descargarán en el mismo directorio en que se ejecute el script, los ruts deben ser sin puntos y con guión
 
     python santo-tomas-dl.py XXXXXXXX-X
     python santo-tomas-dl.py RUTs.txt
