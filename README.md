@@ -1,7 +1,7 @@
 # fotos-perfil-santo-tomas-dl
 Un script en python para descargar fotos de perfil de estudiantes de Santo Tomás
 
-### Uso
+### USO
 
 Ejecuta el script pasando el rut del estudiante o un txt con ruts separados por linea, las fotos de perfil se descargarán en el mismo directorio en que se ejecute el script, los ruts deben ser sin puntos y con guión
 
